@@ -23,7 +23,8 @@ Whether you're adding, subtracting, multiplying, or dividing, this calculator ma
    ```bash
    cd Desktop\FunCalculator
 3. Run the calculator:
-python calculator.py
+
+   python calculator.py
 
 ## 📸 Screenshot
 
@@ -31,7 +32,8 @@ Here’s what the Fun Calculator looks like when it runs:
 
 ![Calculator in action](screenshot.png)
 
-🙌 Author
-Victor Owinyo
+## 🙌 Author
+
+**Victor Owinyo**
 
 
